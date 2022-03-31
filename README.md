@@ -1,4 +1,4 @@
-# **Hi, I'm Nathalia Data Scientist student and technology content creator!** 👋
+### **Hi, I'm Nathalia Data Scientist student and technology content creator!** 👋
 
 
 <div align="center">
