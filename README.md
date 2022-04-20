@@ -17,6 +17,7 @@
   <img align="center" alt="Nathalia-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /">
   <img align="center" alt="Nathalia-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /" /">
   <img align="center" alt="Nathalia-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /">
+  <img align="center" alt="Nathalia-PB" height="30" width="40" src="https://img.icons8.com/color/452/power-bi.png" /">
   <img align="right" alt="Nathalia-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ART5zy3bafRbeY7Hni/giphy.gif">
 </div>
 
